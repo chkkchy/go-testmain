@@ -3,7 +3,7 @@
 exec test:
 
 ```
-~/.g/s/g/c/go-testmain ❯❯❯ go test -v ./...                                                                                                                                                                                                                                                                                                                    
+~/.g/s/g/c/go-testmain ❯❯❯ go test -v ./...
 ```
 
 output:
